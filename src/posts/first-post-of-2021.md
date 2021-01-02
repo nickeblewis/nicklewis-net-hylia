@@ -18,6 +18,10 @@ However when getting out for excercise during the day, we are choosing places th
 
 ![The top of a grey concrete building with a blue sky in the background](/images/979F57F3-9367-479C-900E-EAFCBD1E4367_1_105_c.jpeg "Old buildings near Farnborough North Train Station")
 
-We are getting fitter because we now walk everywhere, leaving the car in the driveway for much of the time.
+We are getting fitter because we now walk everywhere, leaving the car in the driveway for much of the time. This also leads to some great opportunities because of the fact we have slowed down.
 
 ![Basingstoke Canal, Frimley Lodge Park](/images/cab888f7-b19d-4e9f-8d30-3599cb38c003.jpeg "Basingstoke Canal, Frimley Lodge Park")
+
+## Any plans for 2021?
+
+To be honest I am keeping things close to my chest because I feel that the best plan is quite literally to survive the year. We have a long way to go before we hit a recovery phase. I do hope to mentor more and therefore a lot of the content here and elsewhere will very much take that path.

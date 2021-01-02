@@ -1,5 +1,7 @@
 ---
 title: The first post of 2021
+metaTitle: The first post of 2021
+metaDesc: The first post of 2021
 socialImage: /images/da40d4fe-15af-4169-b682-88f86c492576_1_201_a.jpeg
 date: 2021-01-02
 tags:

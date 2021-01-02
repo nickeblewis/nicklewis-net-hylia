@@ -2,12 +2,12 @@
   "showThemeCredit": true,
   "name": "Nick Lewis",
   "shortDesc": "I am a freelance web developer and photographer from the UK based in beautiful Hampshire",
-  "url": "https://hylia.website",
-  "authorEmail": "me@andy-bell.design",
-  "authorHandle": "@hankchizljaw",
-  "authorName": "Andy Bell",
-  "enableThirdPartyComments": false,
-  "maxPostsPerPage": 5,
+  "url": "https://nicklewis.blog",
+  "authorEmail": "nickeblewis@gmail.com",
+  "authorHandle": "@nicklewis",
+  "authorName": "Nick Lewis",
+  "enableThirdPartyComments": true,
   "paymentPointer": "$ilp.uphold.com/MggmnFEyQqhk",
-  "faviconPath": "/images/favicon.png"
+  "faviconPath": "/images/favicon.png",
+  "maxPostsPerPage": 5
 }

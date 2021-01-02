@@ -6,7 +6,7 @@ tags:
   - iphone
   - blog
 ---
-![Railway](/images/da40d4fe-15af-4169-b682-88f86c492576_1_201_a.jpeg "Railway")
+![Railway](/images/da40d4fe-15af-4169-b682-88f86c492576_1_201_a.jpeg "Farnborough Main Station at night")
 
 I like to start something new each year and in this case the domain nicklewis.blog was registered today for the sole purpose of having a place to just write without many constraints being in place. Nice. I like this. I have chosen 11ty for the task because I wanted to move away a little bit from sweating over which framework to use. 2020 exhausted me enough and I just want to explore how 11ty can help provide a nicer development experience.
 

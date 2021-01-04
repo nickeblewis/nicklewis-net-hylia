@@ -39,5 +39,8 @@ Stay safe my friends wherever you are in the world!
 
 ## Photo of the day
 
-I close this post with ann image, I will try to keep this going over the course of the next 6 weeks just to keep some form of sanity!
+I close this post with an image, I will try to keep this going over the course of the next 6 weeks just to keep some form of sanity!
 
+![Solent Serenity](/images/_DSC2623.jpg "Solent Serenity")
+
+I took the above image about a year ago today when taking a walk along the Solent Way close to Emsworth. I can recall not having a care in the world, one project had closed and I was seeking more work to take on. Little did any of us know what was to come, less than a month later.

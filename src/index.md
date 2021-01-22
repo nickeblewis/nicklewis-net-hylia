@@ -1,10 +1,10 @@
 ---
 layout: home
 title: A new year begins...
+metaDesc: ""
 postsHeading: Latest posts
 archiveButtonText: See all posts
-metaDesc: 'Hylia is a lightweight Eleventy starter kit to help you to create your own blog or personal website.'
-socialImage: ''
+socialImage: /images/_DSC2623.jpg
 ---
 
 2020 was a tough year and like many people I ended up working less hours and had to take a different approach to my business from all of the previous years. It was a daunting time and this year is going to be just as tough but at least we all know where we stand as the year begins. 
